@@ -130,7 +130,7 @@ class Mancala(Game):
         seeds_to_sow = self._game_board[current_pit]    # get the number of seeds
         self._game_board[current_pit] = 0               # empty pit into "hand"
 
-        while seeds_to_sow > 0 and self.game_has_ended() is False:
+        while seeds_to_sow > 0:
             current_pit = self._next_pit[current_pit]   # get the next pit
             if (player_turn == 1 and current_pit == '2') \
                     or (player_turn == 2 and current_pit == '1'):

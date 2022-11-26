@@ -170,7 +170,7 @@ class Mancala(Game):
         for key, value in self._game_board.items():
             current_game_state.append(value)
 
-        return f"{current_game_state}"
+        return current_game_state
 
     def get_player_pit_id(self):
         """

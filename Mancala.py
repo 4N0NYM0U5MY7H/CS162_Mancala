@@ -155,7 +155,7 @@ class Mancala(Game):
             self._game_board['1'] += self._game_board[opposite_pit]  # add seeds to player 1 store
             self._game_board[opposite_pit] = 0                       # empty opposite pit
 
-        elif player_turn == 2 and current_pit in self._player_2_pits \
+        if player_turn == 2 and current_pit in self._player_2_pits \
                 and self._game_board[current_pit] == 2:              # player 2 ends in an empty
             #                                                          player 2 pit
             self._game_board['2'] += self._game_board[current_pit]   # add seed to player 2 store

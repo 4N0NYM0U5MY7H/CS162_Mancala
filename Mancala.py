@@ -55,7 +55,7 @@ class Mancala(Game):
     """Represents the U.S. commercial version of Mancala game rules and mechanics."""
 
     def __init__(self, name="Mancala", number_of_players=2):
-        """"""
+        """Creates a Mancala game in the starting state."""
         super().__init__(name, number_of_players)
         self._players = []
         self._initial_seed_count = 4

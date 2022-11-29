@@ -116,7 +116,11 @@ class Mancala(Game):
             return "It's a tie"
 
     def play_game(self, player_turn, player_pit):
-        """"""
+        """
+        Determines if a move is legal and whether the game has ended.
+        Updates the game board based on player turn and the number of seeds in a given pit.
+        Determines if special rules have been met, and play proceeds accordingly.
+        """
         if player_pit > 6 or player_pit <= 0:
             return "Invalid number for pit index"
 

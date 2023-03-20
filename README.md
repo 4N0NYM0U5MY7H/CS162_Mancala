@@ -44,9 +44,11 @@ $ python Mancala.py
 ```
 
 ## TODO
+Refer to [Issues](https://github.com/4N0NYM0U5MY7H/CS162_Mancala/issues) and [Milestones](https://github.com/4N0NYM0U5MY7H/CS162_Mancala/milestones) for the current task list.
 
 ## Built With
 * [![Python v3.10](https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square)](https://www.python.org/)
+* [![PyCharm Community Edition](https://img.shields.io/badge/Community_Edition-000?label=PyCharm&labelColor=141414&logo=pycharm&style=flat-square)](https://www.jetbrains.com/pycharm/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](license) file for details.

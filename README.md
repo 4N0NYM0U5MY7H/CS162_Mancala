@@ -11,7 +11,16 @@
 </picture>
 
 # CS162: Final Project — Mancala
+> **Note**: This repository is archived and is no longer maintained.
+
+![Last Updated](https://img.shields.io/badge/November_2022-critical?label=Last%20Updated&style=flat-square)
+![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status&style=flat-square)
+
 ## Table of Contents
+
+<details>
+<summary>Click to expand</summary>
+
 - [CS162: Final Project — Mancala](#cs162-final-project--mancala)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
@@ -22,9 +31,10 @@
   - [Built With](#built-with)
   - [License](#license)
 
+</details>
 
 ## About
-This project uses object orientated programing principles to deliver a 2 player command line interface game of Mancala.
+This project uses object orientated programing principles to deliver a 2 player command line interface game of [Mancala](/docs/assignment.md).
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.

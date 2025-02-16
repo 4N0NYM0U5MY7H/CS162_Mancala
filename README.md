@@ -16,23 +16,6 @@
 ![Last Updated](https://img.shields.io/badge/November_2022-critical?label=Last%20Updated&style=flat-square)
 ![Not Maintained](https://img.shields.io/badge/Not_Maintained-critical?label=Status&style=flat-square)
 
-## Table of Contents
-
-<details>
-<summary>Click to expand</summary>
-
-- [CS162: Final Project — Mancala](#cs162-final-project--mancala)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Install and run the program](#install-and-run-the-program)
-  - [TODO](#todo)
-  - [Built With](#built-with)
-  - [License](#license)
-
-</details>
-
 ## About
 This project uses object orientated programing principles to deliver a 2 player command line interface game of [Mancala](/docs/assignment.md).
 
@@ -57,8 +40,8 @@ $ python Mancala.py
 Refer to [Issues](https://github.com/4N0NYM0U5MY7H/CS162_Mancala/issues) and [Milestones](https://github.com/4N0NYM0U5MY7H/CS162_Mancala/milestones) for the current task list.
 
 ## Built With
-* [![Python v3.10](https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square)](https://www.python.org/)
-* [![PyCharm Community Edition](https://img.shields.io/badge/Community_Edition-000?label=PyCharm&labelColor=141414&logo=pycharm&style=flat-square)](https://www.jetbrains.com/pycharm/)
+[![Python v3.10](https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square)](https://www.python.org/)
+[![PyCharm Community Edition](https://img.shields.io/badge/Community_Edition-000?label=PyCharm&labelColor=141414&logo=pycharm&style=flat-square)](https://www.jetbrains.com/pycharm/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](license) file for details.

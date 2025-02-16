@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mancala
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: August
+    family-names: Frisk
+    orcid: 'https://orcid.org/0009-0007-9200-8438'
+    email: friska@oregonstate.edu
+    affiliation: Oregon State University
+repository-code: 'https://github.com/4N0NYM0U5MY7H/CS162_Mancala'
+abstract: >-
+  This project uses object orientated programing principles
+  to deliver a 2 player command line interface game of
+  Mancala.
+license: MIT
+date-released: '2022-11-22'
